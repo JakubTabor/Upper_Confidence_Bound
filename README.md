@@ -10,3 +10,4 @@
 # I create variable "upper_bound" is "average_reward" plus "delta_i"
 # Then in "else" i set "upper_bound" at very big value, if my variable will be greater than "max upper bound" it will be equal to this big value
 # And my "ad" variable will change into "i"
+# When this loop will be running my empty list will be filling with this "ad" "ads_selected.append(ad)"
