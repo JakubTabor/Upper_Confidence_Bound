@@ -6,3 +6,4 @@
 # Now I make "for loop" from 0 to my N variable so 10000, then I create variable "ad" and "max_upper_bound" variable
 # In my "for loop" i create new "for loop" from 0 to my "d" variable, so (10) "if numbers_of_selections of index i is graeater than zero then
 # My new variable "average_reward" is "sums_of_rewards of index i / numbers_of_selections of index i"
+# Now my variable "delta_i" its from pattern "math.sqrt(3/2 * math.log(n + 1) / numbers_of_selections[i])"
