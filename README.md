@@ -8,3 +8,4 @@
 # My new variable "average_reward" is "sums_of_rewards of index i / numbers_of_selections of index i"
 # Now my variable "delta_i" its from pattern "math.sqrt(3/2 * math.log(n + 1) / numbers_of_selections[i])"
 # I create variable "upper_bound" is "average_reward" plus "delta_i"
+# Then in "else" i set "upper_bound" at very big value, if my variable will be greater than "max upper bound" it will change to this big value
