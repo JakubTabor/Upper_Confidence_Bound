@@ -11,3 +11,4 @@
 # Then in "else" i set "upper_bound" at very big value, if my variable will be greater than "max upper bound" it will be equal to this big value
 # And my "ad" variable will change into "i"
 # When this loop will be running my empty list will be filling with this "ad" "ads_selected.append(ad)"
+# My "numbers_of_selections" of index "ad" will be changing of (1) "numbers_of_selections[ad] += 1" 
