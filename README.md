@@ -13,3 +13,4 @@
 # When this loop will be running my empty list will be filling with this "ad" "ads_selected.append(ad)"
 # My "numbers_of_selections" of index "ad" will be changing of (1) "numbers_of_selections[ad] += 1" 
 # Now I create new variable "reward" its values from my dataframe of index "n, ad"
+# My "sums_of_rewards of index ad" will be filling with my "reward" "sums_of_rewards[ad] = sums_of_rewards[ad] + reward" 
