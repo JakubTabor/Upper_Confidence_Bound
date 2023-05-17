@@ -15,3 +15,4 @@
 # Now I create new variable "reward" its values from my dataframe of index "n, ad"
 # My "sums_of_rewards of index ad" will be filling with my "reward" "sums_of_rewards[ad] = sums_of_rewards[ad] + reward" 
 # And my "total_reward" also will be updated of reward "total_reward = total_reward + reward"
+# Finally I plot my results, so "ads_selected" on histogram "plt.hist(ads_selected)"
