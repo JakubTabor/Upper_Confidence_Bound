@@ -14,3 +14,4 @@
 # My "numbers_of_selections" of index "ad" will be changing of (1) "numbers_of_selections[ad] += 1" 
 # Now I create new variable "reward" its values from my dataframe of index "n, ad"
 # My "sums_of_rewards of index ad" will be filling with my "reward" "sums_of_rewards[ad] = sums_of_rewards[ad] + reward" 
+# And my "total_reward" also will be updated of reward "total_reward = total_reward + reward"
